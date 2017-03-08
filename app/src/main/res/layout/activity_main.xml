@@ -17,11 +17,42 @@
         android:id="@+id/tv_coffee_price"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="@string/please_input_coffee_price"/>
+        android:text="@string/please_input_coffee_price" />
 
     <Button
         android:id="@+id/btn_save_coffee"
-        android:text="@string/btn_save_coffee"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content" />
+        android:layout_height="wrap_content"
+        android:visibility="gone"
+        android:text="@string/btn_save_coffee" />
+
+    <Button
+        android:id="@+id/btn_add_coffee"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="+" />
+
+    <EditText
+        android:id="@+id/et_coffee_num"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="number" />
+
+    <Button
+        android:id="@+id/btn_sub_coffee"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="-" />
+
+    <TextView
+        android:id="@+id/tv_total_price"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="您需要付多少钱" />
+
+    <Button
+        android:id="@+id/btn_show_price"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="结算" />
 </LinearLayout>
