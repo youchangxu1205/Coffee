@@ -15,17 +15,17 @@
 ##实现
 1.	打开Android Studio
 
-	![打开开发工具](http://www.studyjamscn.com/forum.php?mod=image&aid=34239&size=300x300&key=29c85a111b772b99&nocache=yes&type=fixnone)
+	![打开开发工具](https://github.com/youchangxu1205/Coffee/blob/master/png/QQ%E6%88%AA%E5%9B%BE20170308143728.png)
 2.	创建项目
 
 	1.	选择`Start a new Android Studio project`
 	
-		![填写相应的信息](http://www.studyjamscn.com/forum.php?mod=image&aid=34242&size=300x300&key=f13d103709fdbc05&nocache=yes&type=fixnone)
+		![填写相应的信息](https://github.com/youchangxu1205/Coffee/blob/master/png/2.png)
 	2.	填写相关信息
-	3.	![](http://www.studyjamscn.com/forum.php?mod=image&aid=34243&size=300x300&key=f90fd681e71dd4f7&nocache=yes&type=fixnone)
-	4.	![](http://www.studyjamscn.com/forum.php?mod=image&aid=34244&size=300x300&key=95cfdb7e8205ddd8&nocache=yes&type=fixnone)
+	3.	![](https://github.com/youchangxu1205/Coffee/blob/master/png/3.png)
+	4.	![](https://github.com/youchangxu1205/Coffee/blob/master/png/4.png)
 	5.	选择Empty Activity
-	6.	![](http://www.studyjamscn.com/forum.php?mod=image&aid=34245&size=300x300&key=24bef291fb1ec01b&nocache=yes&type=fixnone)
+	6.	![](https://github.com/youchangxu1205/Coffee/blob/master/png/5.png)
 	7.	这里不做任何的修改
 	8.	到这里新的项目就创建完成了
 
@@ -111,4 +111,4 @@
 
 		可以发现,在输入的时候输入框只接受数字类型,这是我们给EditText加入了`input_type`属性
 
-		![](http://www.studyjamscn.com/forum.php?mod=image&aid=34246&size=300x300&key=4785bc90c018f54e&nocache=yes&type=fixnone)
+		![](https://github.com/youchangxu1205/Coffee/blob/master/png/6.png)
