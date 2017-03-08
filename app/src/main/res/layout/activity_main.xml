@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.example.android.coffee.MainActivity">
+
+    <EditText
+        android:id="@+id/et_coffee_price"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/please_input_coffee_price"
+        android:inputType="numberDecimal" />
+
+    <TextView
+        android:id="@+id/tv_coffee_price"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/please_input_coffee_price"/>
+
+    <Button
+        android:id="@+id/btn_save_coffee"
+        android:text="@string/btn_save_coffee"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+</LinearLayout>

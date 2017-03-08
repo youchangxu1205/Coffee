@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Coffee</string>
+    <string name="please_input_coffee_price">请输入咖啡的价格</string>
+    <string name="btn_save_coffee">保存咖啡的价格</string>
+</resources>
